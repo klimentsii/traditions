@@ -53,7 +53,7 @@ hr {
     min-height: 820px;
     position: relative;
 
-    background: url("/images/background.jpg") center no-repeat;
+    background: url("../images/background.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
